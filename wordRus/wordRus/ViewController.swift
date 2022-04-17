@@ -58,3 +58,4 @@ class ViewController: UIViewController {
 }
 // Source
 // https://www.youtube.com/watch?v=3nwcNLM3KOU&t=334s
+// API - https://rapidapi.com/sheharyar566/api/random-words5/
